@@ -26,14 +26,14 @@
 #shart qoyadi
 
 
-# x = input('x = ')
-# y = input('y = ')
-# if x > y:
-#  print('x')
-# elif x < y:
-#   print('y')
-#else:
-#   print('not number')
+x = input('x = ')
+y = input('y = ')
+if x > y:
+  print('x')
+elif x < y:
+   print('y')
+else:
+   print('not number')
 
 # age = int(input('yoshingizni kiriting'))
 # if age >= 18:
